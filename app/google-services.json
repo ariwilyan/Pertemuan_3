@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679566814985",
+    "firebase_url": "https://pertemuan-3-2e75a.firebaseio.com",
+    "project_id": "pertemuan-3-2e75a",
+    "storage_bucket": "pertemuan-3-2e75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679566814985:android:1574abe8a3dd5d73",
+        "android_client_info": {
+          "package_name": "com.example.menumakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679566814985-4t2ou880e3ruaekuaa7maigdp5j8klf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menumakanan",
+            "certificate_hash": "066c7400e6389ae96650c446a1169f7ed5b0e6bb"
+          }
+        },
+        {
+          "client_id": "679566814985-0h8i1g92bacq7i9knss788dtsgg01dvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCBTvrHmGs26-9qRUn6iBjfZ2_5dSHNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679566814985-0h8i1g92bacq7i9knss788dtsgg01dvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
